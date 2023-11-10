@@ -4,13 +4,14 @@
 // Pino Direito: 5v
 
 int pinPIR = 9; 
-int led1 = 2; // Porta do led azul
-int led2 = 4; // Porta do led vermelho
+int led1 = 2; // Porta dos leds azuis
+int led2 = 4; // Porta dos leds vermelhos
 bool permitido = false;
 
 void setup(){
   pinMode(pinPIR, INPUT);
   pinMode(led1, OUTPUT);
+  pinMode(led2, OUTPUT);
 }
 
 void loop(){  
