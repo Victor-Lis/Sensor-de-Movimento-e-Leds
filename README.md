@@ -75,7 +75,6 @@ void loop(){
 
 [Clique aqui para ver o resultado em um vídeo!](https://youtube.com/shorts/VIrYTjTcueA?feature=share)
 
-#
 ## Autores
 
 - [@Victor-Lis](https://github.com/Victor-Lis)
