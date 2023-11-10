@@ -11,7 +11,6 @@ bool permitido = false;
 void setup(){
   pinMode(pinPIR, INPUT);
   pinMode(led1, OUTPUT);
-  Serial.begin(9600);
 }
 
 void loop(){  
